@@ -1,4 +1,5 @@
 # Receipe-App
+view website here https://tanyaa29.github.io/Receipe-App/.
 Generates Random receipe
 ## 1.Uses meal.db api to generate random receipe.
 ## 2.You can search for any receipe using the search bar
